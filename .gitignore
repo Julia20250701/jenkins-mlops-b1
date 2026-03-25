@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Ignore generated training outputs
+models/
+results/
+
+# OS files
+.DS_Store
